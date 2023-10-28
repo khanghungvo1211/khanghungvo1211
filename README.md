@@ -2,44 +2,17 @@
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🌱 I am A Data Scientist / Analytics Engineer with strong background in Computer Science Engineering. 3+ years of work experience with Python, OOPS, SQL, ML, ML System Design. Currently working as Associate - Data Science in Definitive Healthcare
-
-🌱 My professional work includes developing 
-
-      ▶️ Enterprise ETL website using Python, PySpark
-      
-      ▶️ Developing E2E customer segmentation models using Python and Machine Learning
+🌱 I am Business Analyst with strong background in Information System at University of Information Technology - VNU HCM
 
 🌱 I am well versed in 
 
-     ▶️ Python, OOPS, System Design, R
+     ▶️ C++, Python 
 
-     ▶️ Excel, SQL, EDA, Machine Learning, Data Modelling
-     
-     ▶️ Big Data technologies - Spark, PySpark, Kafka, Airflow
-    
-     ▶️ AWS Cloud Services - S3, Redshift, EMR, Kinesis, Boto3
+     ▶️ Excel, SQL
 
-     ▶️ Tools - Git, Bitbucket, VSCode, PYCharm, RStudio
+     ▶️ Tools - Git, VSCode
 
-🌱 I am pursuing Msc. in Data Science offered by LJMU in partnership with IIIT-Bangalore in Data Engineering as specialisation. 
 
-🌱 My Data Analysis work over here includes casestudies and EDA using Python, SQL or data visualization tools Tableau. 
-
-🌱 My ML work includes projects and information related to Clustering, time series forecasting, NLP domains.
-
-🌱 Apart from data and laptop, I am passionate about Fitness. In my free time, I cook and play violin. 
-
-<!-- 
-## ♦️ Data Analysis Projects 🚧
-
-🌱 [Prediction of Learning Disabilities in school age children](https://github.com/sarathchandrikak/Final-Year-Project)\
-🌱 [Farmer's Market Expansion](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/Farmer%20Expansion)\
-🌱 [NYC Taxi ride EDA](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/NYC%20Taxi%20EDA)\
-🌱 [Food Forecasting Analysis](https://github.com/sarathchandrikak/Food-Forecasting-Analysis)\
-🌱 [Bellabeat Case Study](https://github.com/sarathchandrikak/Google-Data-Analytics-Capstone/blob/main/Markdown.pdf)\
-🌱 [Assure Next Simulation Project](https://github.com/sarathchandrikak/Business-Analyst/tree/main/Excel)\
-🌱 [Employee Info Case Study](https://github.com/sarathchandrikak/sql-data-analysis/tree/main/Employee%20Info%20Case%20Study)
  
 
 ## ♦️ Tools 🔨
@@ -92,11 +65,9 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 ## ♦️ Connect with me 🔗
 <p>
-<a href="mailto:sarathchandrikaksc@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/sarath-chandrika-k/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://public.tableau.com/app/profile/sarath.chandrika.k"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"</a>
-<a href="https://www.instagram.com/sarath.chandrikak/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>  
-<a href="https://sarathchandrikak.github.io/"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"</a>
+<a href="mailto:hungkhang02@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/vohungkhanguit/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://sarathchandrikak.github.io/"> <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook"</a>
 </p>
 
   
